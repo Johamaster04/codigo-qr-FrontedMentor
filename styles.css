@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(200, 211, 219);
+}
+
+.contenedor-qr {
+    margin: 0 auto;
+    max-width: 320px;
+    text-align: center;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.contenedor-qr img{
+    width: 90%;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.contenedor-info{
+    width: 90%;
+    margin: 0 auto;
+    padding-bottom: 20px
+}
+
+ h1{
+    font-size: 20px;
+    font-family: Inter, sans-serif;
+    
+    
+}
+
+p{
+    font-size: 15px;
+    font-family: Inter, sans-serif;
+    
+}
